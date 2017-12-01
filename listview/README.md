@@ -44,3 +44,4 @@ ListView를 레이아웃에 넣으세요.
 ```
 listView.setAdapter(singerAdapter);
 ```
+
