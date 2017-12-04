@@ -34,7 +34,9 @@ public class MainActivity extends AppCompatActivity {
             "소진, 유라, 민아, 혜리",
             "지민, 초아, 유나, 혜정, 민아, 설현, 찬미",
             "LE, 정화, 하니, 솔지, 혜린",
-            "G-DRAGON, 태양, T.O.P, 대성, 승리"};
+            "G-DRAGON, 태양, T.O.P, 대성, 승리"
+    };
+
 
 
     @Override
